@@ -2,7 +2,7 @@
 
 ## Selected Achievement
 
-### 🏆 ECCV 2024 VISION Challenge — Champion (Gold Prize)
+### ECCV 2024 VISION Challenge — Champion
 
 **LUSTER_THU** · *One-Shot Industrial Defect Segmentation*
 
