@@ -13,3 +13,7 @@
 [Challenge Website](https://vision-based-industrial-inspection.github.io/eccv-24/) · [Technical Report](https://drive.google.com/file/d/1gi8M0tP2bdyUiFKp-NeaJiJbQpygHiVY/view?usp=share_link)
 
 `Industrial Inspection` `Defect Segmentation` `Computer Vision` `One-Shot Learning`
+
+## Featured Project
+
+- [**ECCV 2024 VISION Challenge: One-Shot Industrial Defect Segmentation**](https://github.com/suyan451/eccv24-vision-defect-segmentation) — Champion (Gold Prize), LUSTER_THU
