@@ -1,5 +1,3 @@
-# Huyi Shi
-
 ## Selected Achievement
 
 ### ECCV 2024 VISION Challenge — Champion
