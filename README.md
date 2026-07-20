@@ -4,7 +4,7 @@
 
 **LUSTER_THU** · *One-Shot Industrial Defect Segmentation*
 
-- Won **1st Place / Gold Prize** in the ECCV 2024 VISION Workshop Data Challenge.
+- Won **1st Place** in the ECCV 2024 VISION Workshop Data Challenge.
 - Contributed to the **segmentation and verification** components of the solution.
 - Focused on reliable industrial defect segmentation and result validation for one-shot inspection scenarios.
 
